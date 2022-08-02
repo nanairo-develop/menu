@@ -78,7 +78,6 @@
   color: var(--black);
   position: absolute;
   left: calc(50% - 305px / 2);
-  top: calc(50% - 47px / 2);
   font-family: var(--roboto-40-regular-family);
   font-size: var(--roboto-40-regular-size);
   font-weight: var(--roboto-40-regular-weight);
