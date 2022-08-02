@@ -86,3 +86,14 @@
   font-weight: var(--roboto-40-regular-weight);
   line-height: var(--roboto-40-regular-line-height);
 }
+.badge {
+  display: inline;
+  margin-left: 1rem;
+  border: red 1px solid;
+  border-radius: 1rem;
+  padding: 0.1rem;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: white;
+  background: red;
+}
