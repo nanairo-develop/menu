@@ -1,3 +1,15 @@
+@media (max-width: 960px) {
+  body {
+    background-color: pink;
+    font-size: 1rem;
+  }
+}
+@media (max-width: 800px) {
+  body {
+    background-color: brown;
+    font-size: 0.8rem;
+  }
+}
 .menu-group {
   margin-bottom: 26px;
   margin-left: 1px;
