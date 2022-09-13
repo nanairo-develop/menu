@@ -1,0 +1,24 @@
+{
+  "name": "menu",
+  "version": "1.0.0",
+  "description": "メニュー管理用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanairo-develop/menu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanairo-develop/menu/issues"
+  },
+  "homepage": "https://github.com/nanairo-develop/menu#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
